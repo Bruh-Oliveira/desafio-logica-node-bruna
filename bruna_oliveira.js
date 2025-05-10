@@ -106,5 +106,5 @@ function imprimePares(n) {
   console.log("10. Resultado para notas [8, 7, 6]:", calculaMedia([8, 7, 6]));
   console.log("10. Resultado para notas [5, 6, 4]:", calculaMedia([5, 6, 4]));
   
-  // Desafio finalizado por Bruna Oliveira
+  // Desafio finalizado por Mirian Bruna Oliveira Gois
   
